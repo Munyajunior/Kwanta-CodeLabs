@@ -1,8 +1,3 @@
-Here's your updated and polished `README.md` for **KwantaBit CodeLabs**, reflecting the updated technologies (Go, C, React Native, MongoDB, PostgreSQL, Java) and including the GitHub banner image:
-
----
-
-````markdown
 # 🌍 KwantaBit CodeLabs
 
 **Empowering African minds through code, knowledge, and innovation.**  
