@@ -10,7 +10,8 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "fastapi (>=0.116.1,<0.117.0)",
-    "uvicorn[standard] (>=0.35.0,<0.36.0)"
+    "uvicorn[standard] (>=0.35.0,<0.36.0)",
+    "mypy (>=1.16.1,<2.0.0)"
 ]
 
 
